@@ -20,12 +20,12 @@ Screen1 As screen:
         DisplayMode: =DisplayMode.Edit
         Fill: =RGBA(0, 0, 0, 0)
         HeadingSize: =21
-        Height: =604
+        Height: =588
         Items: =ObjectDetector1.Results
         Size: =21
         Width: =640
         X: =0
-        Y: =530
+        Y: =545
         ZIndex: =2
 
         TagName_Column1 As dataTableColumn.textualColumn:
