@@ -7,11 +7,12 @@
     "DataTable1": 5,
     "ObjectDetector1": 4,
     "Screen1": 3,
+    "Screen2": 8,
     "TagName_Column1": 6
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "09/26/2022 12:51:32",
+  "HeaderLastSavedDateTimeUTC": "09/26/2022 12:52:15",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -36,6 +37,7 @@
     "DataTable1": 1,
     "ObjectDetector1": 0,
     "Screen1": 0,
+    "Screen2": 0,
     "TagName_Column1": 2
   },
   "ResourcesJsonIndices": {},
